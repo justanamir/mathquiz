@@ -72,3 +72,5 @@ func exit(msg string) {
 	fmt.Println(msg)
 	os.Exit(1)
 }
+
+//test
